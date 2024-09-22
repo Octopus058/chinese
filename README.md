@@ -6,7 +6,7 @@
 
 <br>
 
-| Badge | Name | How to get                                                                                                                                                       |
+| 勋章 | 名称 | 获取方式                                                                                                                                                      |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | 使用 ❤️ 表情符号对 GitHub 上的内容做出反应 **(正在测试中)** |
 | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | 用户已将 PR 合并到多个公共存储库中 **(正在测试中)** |
@@ -17,14 +17,14 @@
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 两个或[两个以上](#Badge-tiers)的回答被标记为“答案”.                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | 在不进行代码审查的情况下合并 **至少一个** PR.                                                                                                       |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | 通过 [GitHub Sponsors](https://github.com/sponsors) 打赏开源项目.                                                                                  |
-| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | 向用于[Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter)的存储库贡献了代码 *已无法再获取。* |
-| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | 向用于[2020 GitHub Archive Program](https://archiveprogram.github.com/)的存储库贡献了代码. *已无法再获取。*                                 |
+| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | 向用于 [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter) 的存储库贡献了代码 *已无法再获取。* |
+| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | 向用于 [2020 GitHub Archive Program](https://archiveprogram.github.com/) 的存储库贡献了代码. *已无法再获取。*                                 |
 
 <br>
 
 ## 成就徽章等级
 
-一些徽章不仅具有基础版，还可以继续升级
+一些徽章不仅具有基础版，还可以继续升级。
 
 | 成就等级 | 默认 | 黄铜 | 白银 | 黄金 |
 | --- | :---: | :---: | :---: | :---: |
